@@ -23,7 +23,7 @@ public class program {
       x= in.nextInt();
       System.out.println("Enter the range of the multiplication table:");
       y= in.nextInt();
-      System.out.println("Multiplication table of is :-");
+      System.out.println("Multiplication table is :-");
  
       for ( i = 1 ; i<= y ; i++ )
          System.out.println(x+"*"+i+" = "+(x*i));
